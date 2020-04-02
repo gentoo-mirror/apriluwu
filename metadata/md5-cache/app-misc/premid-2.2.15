@@ -1,0 +1,10 @@
+DEFINED_PHASES=install postinst postrm prepare
+DESCRIPTION=Discord Rich Presence for web services
+EAPI=7
+HOMEPAGE=https://premid.app/
+KEYWORDS=~amd64 ~x86
+LICENSE=MPL-2.0
+SLOT=0
+SRC_URI=https://github.com/premid/Linux/releases/download/v2.2.15/premid.tar.gz
+_eclasses_=desktop	7fd20552ce4cc97e8acb132a499a7dd8	eutils	fcb2aa98e1948b835b5ae66ca52868c5	xdg-utils	ff2ff954e6b17929574eee4efc5152ba
+_md5_=ccc9c0c444caadb78480fae3d98faa83
